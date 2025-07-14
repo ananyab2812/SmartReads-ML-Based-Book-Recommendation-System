@@ -1,1 +1,2 @@
 # SmartReads-ML-Based-Book-Recommendation-System
+SmartReads is an intelligent book recommendation system built using Python and NLP techniques. It suggests the top 50 books based on user ratings and recommends similar titles based on custom user input. The system combines content-based filtering and collaborative logic, implemented in Jupyter Notebook and run via PyCharm for smooth local deployment.
